@@ -1,15 +1,12 @@
-Dice
-===
+# Blueis
 
-Dice 🎲 is an extremely simple Golang-based in-memory KV store that speaks the Redis dialect.
+Blueis is an extremely simple Golang-based in-memory KV store that speaks the Redis dialect.
 
 > This is not production ready
 
 ## Story
 
-[Arpit Bhayani](https://arpitbhayani.me) started building Dice DB to understand [Redis](https://redis.io/) better.
-He compiled almost all of his learning in a course titled [Redis Internals](https://arpitbhayani.me/redis) that
-actually laid the foundation of Dice DB.
+I, [Mayukh Sarkar](https://bento.me/mayukhsarkar) started building Blueis DB to understand [Redis](https://redis.io/) better.
 
 ## Why should you care?
 
@@ -36,8 +33,8 @@ To run DiceDB locally, you will need
 
 1. [Golang](https://go.dev/)
 2. Any of the below supported platform environment:
-    1. [Linux based environment](https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions)
-    2. [OSX (Darwin) based environment](https://en.wikipedia.org/wiki/MacOS)
+   1. [Linux based environment](https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions)
+   2. [OSX (Darwin) based environment](https://en.wikipedia.org/wiki/MacOS)
 
 ```
 $ git clone https://github.com/dicedb/dice
